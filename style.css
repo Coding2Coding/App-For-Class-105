@@ -1,0 +1,27 @@
+#bodyTag {
+    background: linear-gradient(lightskyblue 0%, #ffffff 100%);
+    color: dodgerblue;
+    font-family: Calibri;
+}
+
+#title {
+    width: 80%;
+    font-size: 57px;
+    font-family: Calibri;
+}
+
+#items {
+    color: #ffffff;
+    font-family: Calibri;
+    font-size: 29px;
+}
+
+#camera {
+    border-style: dashed;
+    width: 290px;
+    height: 290px;
+}
+
+#object, #accuracy {
+    color: lightcoral;
+}
